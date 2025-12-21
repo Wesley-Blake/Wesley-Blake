@@ -1,5 +1,5 @@
 ## Places of learning I can show.
-![Codewars](https://www.codewars.com/users/dbAdmin-man/badges/large)
+![Code Wars!](https://www.codewars.com/users/Wesley%20Blake/badges/small)
 
 ## Repository methodology, for now.
 1. Everything is a project I used to learn something or actually use.
