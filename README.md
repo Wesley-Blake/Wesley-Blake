@@ -1,5 +1,12 @@
-## Github Profile!
+## Places of learning I can show.
 ![Codewars](https://www.codewars.com/users/dbAdmin-man/badges/large)
+
+## Repository methodology, for now.
+1. Everything is a project I used to learn something or actually use.
+2. Repositories named after languages are very small projects used to learn a language.
+3. I will do my best to follow lanuage conventions.
+4. Everything will have a read me.
+
 
 <!--
 **Wesley-Blake/Wesley-Blake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
