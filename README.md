@@ -1,8 +1,6 @@
 ## Places of learning I can show.
 ![Code Wars!](https://www.codewars.com/users/Wesley%20Blake/badges/small)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/696429cbe3a4245b31c872de?variant=dark)](https://roadmap.sh)
-
 ## Repository methodology, for now.
 1. Everything is a project I used to learn something or actually use.
 2. Repositories named after languages are very small projects used to learn a language.
